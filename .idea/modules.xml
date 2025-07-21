@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/programmingLogic.iml" filepath="$PROJECT_DIR$/programmingLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devdojo-logica-de-programacao.iml" filepath="$PROJECT_DIR$/devdojo-logica-de-programacao.iml" />
     </modules>
   </component>
 </project>
