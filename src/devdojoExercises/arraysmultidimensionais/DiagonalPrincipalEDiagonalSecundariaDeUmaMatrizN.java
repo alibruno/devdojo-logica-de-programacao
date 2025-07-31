@@ -1,4 +1,4 @@
-package devdojoExercises.arraysMultidimensionais;
+package devdojoExercises.arraysmultidimensionais;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package devdojoExercises.lacosdeRepeticao;
+package devdojoExercises.lacos;
 
 import java.util.Scanner;
 

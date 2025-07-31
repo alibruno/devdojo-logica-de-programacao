@@ -1,4 +1,4 @@
-package devdojoExercises.lacosdeRepeticao;
+package devdojoExercises.lacos;
 
 public class Ex04SequenciaDeFibonacci {
     public static void main(String[] args) {

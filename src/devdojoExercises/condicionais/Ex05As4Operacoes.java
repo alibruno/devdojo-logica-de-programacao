@@ -1,4 +1,4 @@
-package devdojoExercises.estruturasCondicionais;
+package devdojoExercises.condicionais;
 
 import java.util.Locale;
 import java.util.Scanner;
